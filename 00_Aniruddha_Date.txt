@@ -1,0 +1,7 @@
+/*
+    Authored by :: Aniruddha Date
+    Date Created:: 25 February 2024
+*/
+
+I took on this project because this topic sparked interest in me.
+and with this repository I aim to study roots of polynomial in detail.
